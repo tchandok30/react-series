@@ -1,1 +1,1 @@
-This is the basic projects(mini projects) for react initialisation
+This is the basic projects(mini projects) for react understanding
